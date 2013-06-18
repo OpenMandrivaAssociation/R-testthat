@@ -3,7 +3,7 @@
 
 Name:             R-%{packname}
 Version:          0.6
-Release:          1
+Release:          2
 Summary:          Testthat code.  Tools to make testing fun :)
 Group:            Sciences/Mathematics
 License:          GPL
